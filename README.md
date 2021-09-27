@@ -30,4 +30,4 @@ npx zenn preview
 
 ## Connect gh repo with Zenn
 
-See: <https://zenn.dev/zenn/articles/connect-to-github<
+See: <https://zenn.dev/zenn/articles/connect-to-github>
