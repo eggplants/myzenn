@@ -1,4 +1,6 @@
-# My Zenn Articles
+# MyZenn
+
+My Zenn Articles
 
 ## Migration from Qiita
 
